@@ -17,9 +17,9 @@ rel="stylesheet">
 <h1><img src="logo.png"></h1>
 <nav>
 <ul>
-<li><a href="index.html">Home</a></li>
+<li><a href="index.html">Assunto</a></li>
 <li><a href="produtos.html">Top 5 jogos do PS2</a></li>
-<li><a href="contato.html"></a></li>
+<li><a href="contato.html">por que são os melhores</a></li>
 </ul>
 </nav>
 </div>
@@ -27,18 +27,14 @@ rel="stylesheet">
 <img class="banner" src="banner.jpg">
 <main>
 <section class="principal">
-<h2 class="titulo-principal">Sobre a Barbearia Alura</h2>
+<h2 class="titulo-principal">Sobre os jogos</h2>
 <img class="utensilios" src="utensilios.jpg"
 
-alt="Utensilios de um barbeiro.">
 
-<p>Localizada no coração da cidade a <strong>Barbearia
-Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e
-barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e
-conquista novos clientes a cada dia.</p>
+<p>1)Bomba Patch. <strong>Um jogo de futebol que marcou a infancia de muitas pessoas merece ser o primeiro da lista (minha opinião).</strong>. 2) GTA San Andreas. Um jogo mundo aberto para voce se divertir o dia todo jogando. 3) God Of War. Esse, não tem o que dizer, um jogo violento porém nostalgico, bom pra passar o tempo. 4)Resident evil 4. Esse jogo é um jogo de terror bem complexo e cheio de puzzles. Bom para quem quer um desafio. 5) Black. Um jogo de guerra, tiroteio e um CLÁSSICO DO PS2 quem conhece esse jogo ou já jogou sabe o quão bom é o jogo.</p>
 
-<p id="missao"><em>Nossa missão é: <strong>"Proporcionar
 
+<p id="missao"><em>O objetivo dessa página é: <strong>Relembrar
 auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
 <p>Oferecemos profissionais experientes e antenados às
 mudanças no mundo da moda. O atendimento possui padrão de excelência e
