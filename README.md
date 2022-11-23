@@ -81,7 +81,7 @@ picture" allowfullscreen></iframe>
 </main>
 <footer>
 <img src="logo-branco.png">
-<p class="copyright">&copy; Copyright Barbearia Alura -
+<p class="copyright">&copy; Copyright El Clássicos do PS2 -
 
 2019</p>
 </footer>
